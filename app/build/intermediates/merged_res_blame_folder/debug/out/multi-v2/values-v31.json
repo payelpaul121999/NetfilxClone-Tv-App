@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.droid.ffdpboss.app-mergeDebugResources-73:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\palpa\\.gradle\\caches\\transforms-3\\273dd2876e7bf36354f1d08f59a8685a\\transformed\\core-splashscreen-1.0.0-beta02\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}

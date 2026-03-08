@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_star_rate.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_star_rate.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_time_game.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/time_game.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_profile_unselect.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/profile_unselect.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_cp.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/cp.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_add_balance.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/add_balance.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_refresh.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_trophy.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_trophy.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_rules_icon.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/rules_icon.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_home_select.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/home_select.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_cached.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_cached.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_support_icon.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/support_icon.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_game_selected.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/game_selected.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_profile_selected.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_profile_selected.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_result.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_result.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_sp_k.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/sp_k.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_share.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/share.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_support_ill.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/support_ill.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/xml_data_extraction_rules.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_close.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_close.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_transaction_bal.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/transaction_bal.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_home.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_profile.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_play_arrow.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_play_arrow.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_withdraw_bal.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/withdraw_bal.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_home_unselected.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/home_unselected.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_visibility_off.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_visibility_off.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_visibility_on.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_visibility_on.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_view.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_view.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/xml_backup_rules.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_tin_patti.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/tin_patti.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_rupees.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/rupees.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_width_wide.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_width_wide.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_location.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_delete.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_credit_card.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_credit_card.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_profile_select.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/profile_select.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_con_ic.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/con_ic.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/font_font_bold.ttf.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/font/font_bold.ttf"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_home_selected.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_home_selected.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/font_font_medium.ttf.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/font/font_medium.ttf"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/font_font_semi_bold.ttf.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/font/font_semi_bold.ttf"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_contact.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_contact.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/font_font_regular.ttf.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/font/font_regular.ttf"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_my_bet_icon.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/my_bet_icon.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_app_icon.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/app_icon.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_close_24.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_close_24.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_logout.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/logout.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_whatsapp_ic.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/whatsapp_ic.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_baseline_arrow_back.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/baseline_arrow_back.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_ic_time.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_profile_icon.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/profile_icon.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_game_unselect.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/game_unselect.png"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.droid.ffdpboss.app-merged_res-75:/drawable_single_patti.png.flat",
+        "source": "com.droid.ffdpboss.app-main-77:/drawable/single_patti.png"
+    }
+]
