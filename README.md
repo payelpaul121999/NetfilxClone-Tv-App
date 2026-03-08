@@ -261,13 +261,15 @@ implementation("androidx.leanback:leanback:1.0.0")
 MIT License — free to use, modify, and distribute.
 ```
 
-<br/>
+<br/><img width="1920" height="1080" alt="home_screen" src="https://github.com/user-attachments/assets/66b9f0dc-8ffe-4876-97b8-4d1b023eb962" />
+
 ## 📸 Screenshots
 
 | Profile Selection | Home Screen |
 |:-:|:-:|
-| ![Profile Selection]<img width="820" height="400" alt="profile" width="30%" src="https://github.com/user-attachments/assets/6c2924b1-e6f2-4fa0-8c8c-a16c7aa6f0a2" />
- | ![Home Screen]<img width="820" height="400" alt="home_screen" width="30%" src="https://github.com/user-attachments/assets/39e4d200-89b6-4c86-80b3-a7ed7fcbf099" />
+
+| ![Profile Selection]<img width="1920" height="1080" alt="profile" src="https://github.com/user-attachments/assets/7c6f4a85-b29d-4361-969b-fab11e581300" />
+ | <img width="1920" height="1080" alt="home_screen" src="https://github.com/user-attachments/assets/3b3ba684-e6ef-481a-8d83-a859f317aba5" />
 |
 
 | Content Rows | Detail Screen |
