@@ -2,9 +2,6 @@
 
 A production-grade **Netflix clone** built for **Android TV** using **Jetpack Compose**. Features D-pad navigation, hero banners, content rows, video playback, profile selection, search, and a full detail screen — all styled to match Netflix's real UI.
 
-<br/>
-
-
 
 
 ## ✨ Features
@@ -268,22 +265,31 @@ MIT License — free to use, modify, and distribute.
 | Profile Selection | Home Screen |
 |:-:|:-:|
 
-| ![Profile Selection]<img width="1920" height="1080" alt="profile" src="https://github.com/user-attachments/assets/7c6f4a85-b29d-4361-969b-fab11e581300" />
- | <img width="1920" height="1080" alt="home_screen" src="https://github.com/user-attachments/assets/3b3ba684-e6ef-481a-8d83-a859f317aba5" />
+| ![Profile Selection]<img width="820" height="400" width="30%" alt="profile" src="https://github.com/user-attachments/assets/7c6f4a85-b29d-4361-969b-fab11e581300" />
+ | <img  width="820" height="400"  width="30%" alt="home_screen" src="https://github.com/user-attachments/assets/3b3ba684-e6ef-481a-8d83-a859f317aba5" />
 |
 
 | Content Rows | Detail Screen |
 |:-:|:-:|
-| ![Content Rows]<img width="820" height="400" alt="home_screen_2" width="30%" src="https://github.com/user-attachments/assets/a11c7970-6007-4da3-8981-61456955bcdd" />
- | ![Detail Screen]<img width="820" height="400" alt="details_screen" width="30%" src="https://github.com/user-attachments/assets/56abd99d-f9fe-47a5-8379-af23c1e8f383" />
+<img width="820" height="400"  width="30%" alt="home_screen_2" src="https://github.com/user-attachments/assets/f3cc8768-6a37-4836-8ecb-40b41453d74c" />
+<img width="820" height="400"  width="30%" alt="details_screen" src="https://github.com/user-attachments/assets/9fc0c570-88ae-49c0-91f5-9348ee57ec8e" />
  | VIDEO |
-<video src ="https://github.com/user-attachments/assets/0663d36a-e1ba-4dcf-a81d-58663caffbb4" width="30%" />
+
+
+https://github.com/user-attachments/assets/e55bbd21-6a8e-4748-abb6-e0bae52d321f
+
+
+ 
 ## 🙏 Acknowledgements
 
 - UI inspired by the Netflix Android TV app
 - Sample images via [picsum.photos](https://picsum.photos)
 - Demo video stream — Big Buck Bunny (Blender Foundation)
 - Icons — Material Icons Extended
+
+
+https://github.com/user-attachments/assets/d5dc0f88-fe3d-4719-9c75-d872e7c476c2
+
 
 ---
 
